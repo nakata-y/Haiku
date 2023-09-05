@@ -1,4 +1,4 @@
-# Haiku D&E (Develop ＆ Execute)(開発と創作）
+# Haiku D&E (Develop ＆ Execute)(俳句を創作し、このアプリを実行)
 
 初めて使う方へのQ & A
 
