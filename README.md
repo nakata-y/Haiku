@@ -1,4 +1,4 @@
-# Haiku D&E (Develop ＆ Execute)(開発と実行）
+# Haiku D&E (Develop ＆ Execute)(開発と創作）
 
 初めて使う方へのQ & A
 
