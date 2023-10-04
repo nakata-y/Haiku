@@ -62,6 +62,7 @@ Q7. 手書き入力はどうやって使いますか？
 A7. 画面下部にある「手書き入力」をタップすると、手書きでの俳句の入力や編集ができます。
 　　Apple Pencilや指で手書きができます。
 　　「Save」を押すと、フォトライブラリへの保存も可能です。
+  
   <img width=200 src=https://github.com/nakata-y/Haiku/assets/101084603/3aabe253-4857-4da2-97e4-826c212784e4.jpeg>
 
 
