@@ -10,11 +10,11 @@
 俳句を作らない方も、お気に入りの俳句を保存してお楽しみください。
 
 縦書き表示や手書き入力など、色々な機能をお楽しみください。
-<img width=400 src=https://github.com/nakata-y/Haiku/assets/101084603/f7e3ad22-933f-41a6-b48e-95707b468186>
+<img width=400 src=https://github.com/nakata-y/Haiku/assets/101084603/f7e3ad22-933f-41a6-b48e-95707b468186.jpeg>
 
-<img width=400 src=https://github.com/nakata-y/Haiku/assets/101084603/e776559f-9347-44fe-8add-a430fbfe55ba>
+<img width=400 src=https://github.com/nakata-y/Haiku/assets/101084603/e776559f-9347-44fe-8add-a430fbfe55ba.jpeg>
 
-<img width=400 src=https://github.com/nakata-y/Haiku/assets/101084603/ca03511b-d237-4f4e-8452-a2e9be82bba8>
+<img width=400 src=https://github.com/nakata-y/Haiku/assets/101084603/ca03511b-d237-4f4e-8452-a2e9be82bba8.jpeg>
 
 よくある質問　Q & A　　[詳しい説明は、こちら](#詳しい説明)
 
