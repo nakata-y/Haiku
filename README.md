@@ -19,6 +19,7 @@ Q1. このアプリは何ができますか？
 
 A1. 俳句を保存したり、縦書き短冊風・色紙風を表示させたり、検索・並び替え・手書き入力がきます。
 
+
 <img width=200 src=https://github.com/nakata-y/Haiku/assets/101084603/ca03511b-d237-4f4e-8452-a2e9be82bba8.jpeg>
 
 
