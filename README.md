@@ -14,6 +14,7 @@
 
 <img width=200 src=https://github.com/nakata-y/Haiku/assets/101084603/e776559f-9347-44fe-8add-a430fbfe55ba.jpeg>
 
+
 よくある質問　Q & A　　[詳しい説明は、こちら](#詳しい説明)
 
 Q1. このアプリは何ができますか？
