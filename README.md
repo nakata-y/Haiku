@@ -128,6 +128,8 @@ A11.  上記の画面で、星の数を３までつけることができます�
 迷うものは、星１つ等、お好きなように星を使ってください。
 
 <img width=200 src=https://github.com/nakata-y/Haiku/assets/101084603/b143870c-67b8-49a6-820a-bb7c14f73d0a.jpeg>
+
+
 *
 *
 
