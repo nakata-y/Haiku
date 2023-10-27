@@ -16,6 +16,8 @@ Haiku D&E とは？(Develop ＆ Execute　：　俳句を創作し、このア�
 
 
 俳句を作らない方場合、作者名は覚書に入力か　下の句に続けて空白を入れて作者名を入力していただいても。
+＊
+
 
  
 よくある質問　Q & A　  [詳しい説明は、こちら](#詳しい説明)
@@ -30,8 +32,15 @@ A1. 俳句を保存したり、縦書き短冊風・色紙風を表示させた�
 <img width=200 src=https://github.com/nakata-y/Haiku/assets/101084603/ca03511b-d237-4f4e-8452-a2e9be82bba8.jpeg>
 
 
+＊
+
 
 Q2. どうやって俳句を追加しますか？
+
+
+<img width=200 src=https://github.com/nakata-y/Haiku/assets/101084603/9b59a56d-f203-4cd5-b4a1-c8f5a18d83e2.jpeg>
+
+
 
 A2. メイン画面右上の「+ 俳句追加」ボタンをタップして、入力画面で入力します。
 
