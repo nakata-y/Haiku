@@ -131,6 +131,9 @@ A7. 画面下部にある「手書き入力」をタップすると、手書き�
   
   <img width=200 src=https://github.com/nakata-y/Haiku/assets/101084603/3aabe253-4857-4da2-97e4-826c212784e4.jpeg>
 
+   <img width=200 src=https://github.com/nakata-y/Haiku/assets/101084603/71b1717b-b561-43ea-9a32-a95e20ffa560.jpeg>
+
+
 
 Q8. 句会休会のときの欠席投句にこのアプリは使えますか？　   <a id="A8"></a>
 
