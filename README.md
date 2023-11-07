@@ -377,11 +377,6 @@ Apple Pencilや指を使っての手書きのメモができます。
  
  　「画像消去」を押すと、　取込んだ画像を消去します。
    
-
-
-<span style="color:red">このテキストは赤色です</span>
-<span style="background-color:yellow">このテキストの背景色は黄色です</span>
-  
   
 
 
