@@ -13,6 +13,8 @@ Haiku D&E とは？ (Develop ＆ Execute：俳句を創作し、このアプリ�
 
 また、俳句を作らない方も、名句や忘れたくない句を集めて暗誦など如何でしょう
 
+
+
 <img width=200 src=https://github.com/nakata-y/Haiku/assets/101084603/e776559f-9347-44fe-8add-a430fbfe55ba.jpeg>
 
 *
