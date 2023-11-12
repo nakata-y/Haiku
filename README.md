@@ -16,6 +16,7 @@ Haiku D&E とは？ (Develop ＆ Execute：俳句を創作し、このアプリ�
 吟行中のメモや画像保存に手書入力画面も活用ください
 
 俳人でない方も、覚えたい句を登録して、暗誦など活用ください。    [詳しい説明は、こちら](#詳しい説明)
+
 <img width=200 src=https://github.com/nakata-y/Haiku/assets/101084603/e776559f-9347-44fe-8add-a430fbfe55ba.jpeg>
 
 *
