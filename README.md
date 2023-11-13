@@ -4,6 +4,7 @@ Haiku D&E とは？ (Develop ＆ Execute：俳句を創作し、このアプリ�
 　　　　　　　[Q & A はこちら](#a1) 
 
 俳人もそうでない方も楽しめるアプリです
+
 <img width=200 src=https://github.com/nakata-y/Haiku/assets/101084603/e776559f-9347-44fe-8add-a430fbfe55ba.jpeg>
 
 
@@ -287,7 +288,7 @@ A  写真アプリが表示され、選択すると、手書入力画面に取�
 
 <details>
 <summary> Q  「スクリーンショット保存」　</summary>　
-A   写真アプリの写真にスクショが保存され　＆アルバム「俳句　D&E」にも入ります。
+A   写真アプリの写真にスクショが保存され　や　アルバム「俳句　D&E」にも入ります。
 </details>
 
 <details>
