@@ -157,6 +157,7 @@ A　はい。
 
 Q　「俳句のみ表示」　短冊や色紙風の楽しみ方？
 A　４つの選択肢（俳句のみ表示、全て表示、色紙、色紙　作者名入り）メニューを選択ください。
+
 <img width=200 src=https://github.com/nakata-y/Haiku/assets/101084603/ca03511b-d237-4f4e-8452-a2e9be82bba8.jpeg>
 
 <details>
