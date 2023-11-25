@@ -391,7 +391,6 @@ A   勿論です！覚えたい句や時々思い出したい句を登録して�
 ーーーーーーーー
 <a id="a2"></a> 
 ## ダウンロード
-
 [<img src="App_Store_Badge_JP_RGB_blk_100317 2.png">](https://apps.apple.com/us/app/haiku-俳句アプリ-d-e/id6466787650)
 
 <img width="120" alt="image" src="https://github.com/nakata-y/Haiku/assets/101084603/385ace66-b4b7-4d93-932e-42340e009b7b">
