@@ -394,9 +394,7 @@ A   勿論です！覚えたい句や時々思い出したい句を登録して�
 
 [<img src="App_Store_Badge_JP_RGB_blk_100317 2.png">](https://apps.apple.com/us/app/haiku-俳句アプリ-d-e/id6466787650)
 
-<img width="165" alt="image" src="https://github.com/nakata-y/Haiku/assets/101084603/385ace66-b4b7-4d93-932e-42340e009b7b">
-
-<img width=200 src=https://github.com/nakata-y/Haiku/assets/101084603/71b1717b-b561-43ea-9a32-a95e20ffa560.jpeg>
+<img width="100" alt="image" src="https://github.com/nakata-y/Haiku/assets/101084603/385ace66-b4b7-4d93-932e-42340e009b7b">
 
 
 
