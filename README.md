@@ -394,4 +394,6 @@ A   勿論です！覚えたい句や時々思い出したい句を登録して�
 
 [<img src="App_Store_Badge_JP_RGB_blk_100317 2.png">](https://apps.apple.com/us/app/haiku-俳句アプリ-d-e/id6466787650)
 
+
+
  
