@@ -1,9 +1,9 @@
 # アプリの説明
 
 Haiku D&E とは？ (Develop ＆ Execute：俳句を創作し、このアプリを実行) 
-　　　　　[Q & A はこちら　](#a1)           [アプリダウンロードはこちら](#a2) 
-
-俳人もそうでない方も楽しめるアプリです
+　　　　　[Q & A はこちら　](#a1)          
+     
+ 俳人もそうでない方も楽しめるアプリです [アプリダウンロードはこちら](#a2) 
 
 <img width=200 src=https://github.com/nakata-y/Haiku/assets/101084603/e776559f-9347-44fe-8add-a430fbfe55ba.jpeg>
 
