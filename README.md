@@ -6,9 +6,8 @@ Haiku D&E とは？ (Develop ＆ Execute：俳句を創作し、このアプリ�
     
      (GithubアプリをiPhone/iPadにインストールなさってる方で、
      表示に不具合がある場合は、
-     こちらを　([https://apps.apple.com/us/app/haiku-俳句アプリ-d-e/id6466787650](https://github.com/nakata-y/Haiku/blob/main/README.md#アプリの説明))
-     [<img src="App_Store_Badge_JP_RGB_blk_100317 2.png">(https://github.com/nakata-y/Haiku/blob/main/README.md#アプリの説明)
-
+     こちらを　(https://github.com/nakata-y/Haiku/blob/main/README.md#アプリの説明)
+   
     俳人もそうでない方も楽しめるアプリです 　　[アプリダウンロードはこちら](#a2) 
 
 <img width=200 src=https://github.com/nakata-y/Haiku/assets/101084603/e776559f-9347-44fe-8add-a430fbfe55ba.jpeg>
