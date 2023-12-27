@@ -1,10 +1,12 @@
 # アプリの説明
 
 Haiku D&E とは？ (Develop ＆ Execute：俳句を創作し、このアプリを実行) 
-　　　　　[Q & A はこちら　](#a1)      
+　　　　
+     [Q & A はこちら　](#a1)      
     
-     (GithubアプリをiPhone/iPadにインストールなさってる方で、表示に不具合がある場合は、
-  　　こちらを　([https://apps.apple.com/us/app/haiku-俳句アプリ-d-e/id6466787650](https://github.com/nakata-y/Haiku/blob/main/README.md#アプリの説明))　）
+     (GithubアプリをiPhone/iPadにインストールなさってる方で、
+     表示に不具合がある場合は、こちらを　
+     ([https://apps.apple.com/us/app/haiku-俳句アプリ-d-e/id6466787650](https://github.com/nakata-y/Haiku/blob/main/README.md#アプリの説明))　）
      
     俳人もそうでない方も楽しめるアプリです 　　[アプリダウンロードはこちら](#a2) 
 
