@@ -280,7 +280,6 @@ Apple Pencilや指で手書きができます。
 保存ボタンを押せば、写真アプリの　アルバム「俳句　D&E」に　スクショが保存されます。
 
 
- <img width=200 src=https://github.com/nakata-y/Haiku/assets/101084603/71b1717b-b561-43ea-9a32-a95e20ffa560.jpeg>
 <img width=200 src=https://github.com/nakata-y/Haiku/assets/101084603/ffbef3ee-2967-4d6a-b522-8609e7bde6e9.jpeg>
 
 <details>
