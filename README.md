@@ -2,7 +2,8 @@
 
 Haiku D&E とは？ (Develop ＆ Execute：俳句を創作し、このアプリを実行) 
 　　　　
-     [Q & A はこちら　](#a1)      
+     [Q & A はこちら　](#a1)   https://github.com/nakata-y/Haiku/blob/main/README.md
+     
     
      (GithubアプリをiPhone/iPadにインストールなさってる方で、
      表示に不具合がある場合は、
