@@ -338,8 +338,7 @@ Apple Pencilや指で手書きができます。
 
 <img width="200" src="./images/handwriting-screen.jpeg" alt="手書き入力画面">
 
-<img width="200" src="./images/handwriting-screen.jpeg" alt="手書き入力画面">
-
+<img width="200" src="images/handwriting-screen.jpeg" alt="手書き入力画面">
 
 
 <details>
