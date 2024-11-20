@@ -113,7 +113,7 @@ A. メイン画面右上の「+ 俳句追加」ボタンをタップ。
 
 
 
-<img width="200" src="./images/input-screen.jpeg" alt="入浴画面">
+<img width="200" src="./images/input-screen.jpeg" alt="入力画面">
 
 
 
@@ -335,6 +335,8 @@ Apple Pencilや指で手書きができます。
 
 保存ボタンを押せば、写真アプリの　アルバム「俳句　D&E」に　スクショが保存されます。
 
+
+<img width="200" src="./images/handwriting-screen.jpeg" alt="手書き入力画面">
 
 <img width="200" src="./images/handwriting-screen.jpeg" alt="手書き入力画面">
 
