@@ -450,7 +450,7 @@ A   勿論です！覚えたい句や時々思い出したい句を登録して�
 
 <img width="120" alt="image" src="https://github.com/nakata-y/Haiku/assets/101084603/385ace66-b4b7-4d93-932e-42340e009b7b">
 
-上記の表示に不具合がある場合は、以下のアドレスへ「リンクを開く」でお願いします
+上記の表示に不具合がある場合は、以下のアドレスへお願いします
     https://github.com/nakata-y/Haiku/blob/main/README.md
 
 
