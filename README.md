@@ -446,7 +446,6 @@ A   勿論です！覚えたい句や時々思い出したい句を登録して�
 <a id="a2"></a> 
 ## ダウンロード
 
-[<img src="./images/app-store-badge.png" alt="App Store">](https://apps.apple.com/us/app/haiku-俳句アプリ-d-e/id6466787650)
 
 [<img src="App_Store_Badge_JP_RGB_blk_100317 2.png">](https://apps.apple.com/us/app/haiku-俳句アプリ-d-e/id6466787650)
 
