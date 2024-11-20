@@ -105,7 +105,7 @@ Q　「メイン画面」は？　新規登録の方法は？
 
 <img width=200 src=https://github.com/nakata-y/Haiku/assets/101084603/f7e3ad22-933f-41a6-b48e-95707b468186.jpeg>
 
-<img width="200" src="./images/tanzaku-screen.jpeg" alt="メイン画面">
+<img width="200" src="./images/Initial-screen.jpeg" alt="メイン画面">
 
 
 *
