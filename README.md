@@ -103,7 +103,6 @@ Q　「メイン画面」は？　新規登録の方法は？
 俳句を新規登録したら、上記のように、短冊に手書きしたように、一覧表示します。
 初期画面は、以下の通りです。
 
-<img width=200 src=https://github.com/nakata-y/Haiku/assets/101084603/f7e3ad22-933f-41a6-b48e-95707b468186.jpeg>
 
 <img width="200" src="./images/Initial-screen.jpeg" alt="初期画面">
 
@@ -112,7 +111,7 @@ Q　「メイン画面」は？　新規登録の方法は？
 A. メイン画面右上の「+ 俳句追加」ボタンをタップ。
 入力画面　下からシートが出てきます。　
 
-<img width=200 src=https://github.com/nakata-y/Haiku/assets/101084603/9b59a56d-f203-4cd5-b4a1-c8f5a18d83e2.jpeg>
+
 
 <img width="200" src="./images/input-screen.jpeg" alt="入浴画面">
 
@@ -150,7 +149,7 @@ A　クリックして評価？星とは？
 
 例えば、是非句集に入れたい句には、星３つ。
 迷うものは、星１つ等、お好きなように星を使ってください。
-<img width=200 src=https://github.com/nakata-y/Haiku/assets/101084603/b143870c-67b8-49a6-820a-bb7c14f73d0a.jpeg>
+
 
 <img width="200" src="./images/star-screen.jpeg" alt="星評価画面">
 
@@ -173,7 +172,7 @@ A　クリックして評価？星とは？
  入力を中止して、登録をしない場合は、右上の「x」を押して下さい。メイン画面に戻ります。
 </details>
 
- <img width=200 src=https://github.com/nakata-y/Haiku/assets/101084603/b1ac161d-e071-440d-8a30-b877659c80c4.jpeg>
+
 
 <img width="200" src="./images/tanzaku-screen.jpeg" alt="短冊画面">
 
@@ -211,7 +210,6 @@ A　はい。
 Q　「俳句のみ表示」　短冊や色紙風の楽しみ方？
 A　４つの選択肢（俳句のみ表示、全て表示、色紙、色紙　作者名入り）メニューを選択ください。
 
-<img width=200 src=https://github.com/nakata-y/Haiku/assets/101084603/ca03511b-d237-4f4e-8452-a2e9be82bba8.jpeg>
 
 <img width="200" src="./images/shikishi-screen.jpeg" alt="色紙画面">
 
@@ -273,7 +271,6 @@ A　 画面下部にある「検索・並び替え・絞り込み」をタップ
 俳句のほかに、覚書、日付、星の数、任意の番号も、横書きで表示されます。
  検索バーに検索ワードを入力ください。
 
-<img width=200 src=https://github.com/nakata-y/Haiku/assets/101084603/3e01d4f9-900f-4405-bbd0-b7f98940ac99.jpeg>
 
 <img width="200" src="./images/search-screen.jpeg" alt="検索画面">
 
@@ -339,7 +336,7 @@ Apple Pencilや指で手書きができます。
 保存ボタンを押せば、写真アプリの　アルバム「俳句　D&E」に　スクショが保存されます。
 
 
-<img width=200 src=https://github.com/nakata-y/Haiku/assets/101084603/ffbef3ee-2967-4d6a-b522-8609e7bde6e9.jpeg>
+
 
 <img width="200" src="./images/handwriting-screen.jpeg" alt="手入力画面">
 
