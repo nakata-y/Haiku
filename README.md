@@ -13,6 +13,7 @@ Haiku D&E とは？ (Develop ＆ Execute：俳句を創作し、このアプリ�
 
 <img width=200 src=https://github.com/nakata-y/Haiku/assets/101084603/e776559f-9347-44fe-8add-a430fbfe55ba.jpeg>
 
+<img width="200" src="./images/main-screen.jpeg" alt="メイン画面">
 
 
 俳句を短冊に縦書き、手書風に、一覧表示します。
@@ -105,8 +106,6 @@ Q　「メイン画面」は？　新規登録の方法は？
 初期画面は、以下の通りです。
 
 <img width=200 src=https://github.com/nakata-y/Haiku/assets/101084603/f7e3ad22-933f-41a6-b48e-95707b468186.jpeg>
-
-<img width="200" src="./images/main-screen.jpeg" alt="メイン画面">
 
 *
 A. メイン画面右上の「+ 俳句追加」ボタンをタップ。
