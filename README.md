@@ -336,9 +336,8 @@ Apple Pencilや指で手書きができます。
 保存ボタンを押せば、写真アプリの　アルバム「俳句　D&E」に　スクショが保存されます。
 
 
+<img width="200" src="./images/handwriting-screen.jpeg" alt="手書き入力画面">
 
-
-<img width="200" src="./images/handwriting-screen.jpeg" alt="手入力画面">
 
 
 <details>
