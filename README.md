@@ -341,7 +341,7 @@ Apple Pencilや指で手書きができます。
 
 <img width=200 src=https://github.com/nakata-y/Haiku/assets/101084603/ffbef3ee-2967-4d6a-b522-8609e7bde6e9.jpeg>
 
-<img width="200" src="./images/handriting-screen.jpeg" alt="メイン画面">
+<img width="200" src="./images/handwriting-screen.jpeg" alt="メイン画面">
 
 
 <details>
