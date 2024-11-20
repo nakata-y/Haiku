@@ -3,11 +3,6 @@
 Haiku D&E とは？ (Develop ＆ Execute：俳句を創作し、このアプリを実行) 
 　　　　
      [Q & A はこちら　](#a1)    
-
-    以下の表示に不具合がある場合は、以下のアドレスへ「リンクを開く」でお願いします
-    https://github.com/nakata-y/Haiku/blob/main/README.md
-    (GithubアプリをiPhone/iPadにインストールなさってる方など )
-
     
     俳人もそうでない方も楽しめるアプリです 　　[アプリダウンロードはこちら](#a2) 
 
@@ -452,7 +447,12 @@ A   勿論です！覚えたい句や時々思い出したい句を登録して�
 ## ダウンロード
 [<img src="App_Store_Badge_JP_RGB_blk_100317 2.png">](https://apps.apple.com/us/app/haiku-俳句アプリ-d-e/id6466787650)
 
+
 <img width="120" alt="image" src="https://github.com/nakata-y/Haiku/assets/101084603/385ace66-b4b7-4d93-932e-42340e009b7b">
+
+上記の表示に不具合がある場合は、以下のアドレスへ「リンクを開く」でお願いします
+    https://github.com/nakata-y/Haiku/blob/main/README.md
+
 
 
 
