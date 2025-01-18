@@ -479,7 +479,9 @@ A   勿論です！覚えたい句や時々思い出したい句を登録して�
 <img width="120" alt="image" src="https://github.com/nakata-y/Haiku/assets/101084603/385ace66-b4b7-4d93-932e-42340e009b7b">
 
 ＜お問い合わせ＞
+
 アプリについてご不明な点や不具合等がございましたら、以下のお問い合わせフォームからご連絡ください：
+
  [FORM](https://docs.google.com/forms/d/1fVwMdQL2FB1LJODAaDiUJbl0WKgsodtJg7nmqN4VVLs/edit).
 
 
